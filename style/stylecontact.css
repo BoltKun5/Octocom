@@ -234,6 +234,9 @@ a {
 }
 
 @media screen and (max-width:680px) {
+    textarea{
+        max-width: 99%;
+    }
     .realisations {
         grid-template-columns: 1fr;
     }
