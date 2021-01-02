@@ -96,10 +96,14 @@ header {
 /**PAGE MENTIONS LÉGALES**/
 
 h1 {
+    align-items: center;
     text-transform: uppercase;
 }
-
+h2 {
+    align-items: center;
+}
 h3 {
+    align-items: center;
     text-transform: uppercase;
 }
 

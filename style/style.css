@@ -348,7 +348,7 @@ a {
     }
 
     .ecranA {
-        height: 100vh;
+        height: auto;
     }
 
     .ecranC {
